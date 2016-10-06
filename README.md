@@ -1,6 +1,5 @@
 # myanmaremrTB
-
-Myanmar EMR module for TB system
+EMR module for TB system
 
 Accreditation
 -------------
